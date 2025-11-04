@@ -1,0 +1,5 @@
+{
+  "name": "CS FAQ Tool",
+  "description": "An internal knowledge base search tool for Customer Service agents to quickly find SOPs and response templates for customer issues, with support for both AI-powered semantic search and traditional keyword search.",
+  "requestFramePermissions": []
+}
